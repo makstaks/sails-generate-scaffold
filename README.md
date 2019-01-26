@@ -1,3 +1,5 @@
+IMPORTANT: This fork is not actively maintained.
+
 # sails-generate-scaffold
 
 **Note:** This module requires Sails **v0.10.0-rc8** or higher.
